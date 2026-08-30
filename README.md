@@ -1,4 +1,7 @@
-# Sidebar-three-button
-A simple sidewar is creating with multiple functions (ex:- home, follow us etc)using simple HTML CSS language.
-<br>
-Author- Utkarsh Raj
+# Sidebar Menu Mini Project
+
+A responsive three-button sidebar navigation experiment built with semantic HTML and CSS.
+
+## Run locally
+
+Open `mini_project.html` in a browser. No installation is required.
